@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, <br>ich entwickle aus Interesse und lerne täglich dazu.<br>Ich arbeite aktuell mit Lua und beschäftige mich zusätzlich mit Java und Python.<br><br>Alle veröffentlichten Projekte kannst du frei anpassen und weiterverwenden.
+Hi, <br>ich entwickle aus Interesse und lerne täglich dazu.<br>Ich arbeite aktuell mit Lua und beschäftige mich zusätzlich mit Java Python und Webentwicklung.<br><br>Alle veröffentlichten Projekte kannst du frei anpassen und weiterverwenden.
 
 
 # 💻 Tech Stack:
